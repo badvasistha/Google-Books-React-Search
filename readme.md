@@ -14,3 +14,5 @@ Users can also view all of their saved books, with options to View the book at t
 * JavaScript
 * Bootstrap
 * Axios
+
+This app has been deployed to Heroku and can be navigated to with the following link. https://vasistha-react-book-search.herokuapp.com/
